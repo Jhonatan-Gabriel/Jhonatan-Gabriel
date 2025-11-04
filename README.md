@@ -1,8 +1,8 @@
-## Hi there, I'm Jhonatan Gabriel 👋
+## Olá, me chamo Jhonatan Gabriel 👋
 
-- 🔭 I’m currently studying Systems Analysis and Development at Unigran Capital;
-- 📒 I’m currently learning JavaScript
-- 😄 Pronouns: He/Him
+- 🔭 Atualmente estou cursando análise e desenvolvimento de sistemas na Unigran Capital;
+- 📒 Estou aprendendo JS e sei o básico de python;
+- 😄 Estudando para ser um Full-stack dev.
   
 ![Jhonatan-Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jhonatan-Gabriel&show_icons=true&theme=merko)
 
